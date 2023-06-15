@@ -26,15 +26,25 @@ First, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/your_username/your_repo.git
+```
 
 Navigate to the project folder:
+
+```bash
 cd your_repo
+```
 
 Install the required dependencies:
+
+```bash
 pip install -r requirements.txt
+```
 
 Finally, run the Streamlit application:
+
+```bash
 streamlit run game_of_life.py
+```
 
 **Please replace `your_username` and `your_repo` with your actual GitHub username and the name of your repository. If you choose a different license, be sure to update the License section accordingly.**
 
