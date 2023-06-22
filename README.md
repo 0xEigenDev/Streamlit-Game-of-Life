@@ -46,8 +46,6 @@ Finally, run the Streamlit application:
 streamlit run game_of_life.py
 ```
 
-**Please replace `your_username` and `your_repo` with your actual GitHub username and the name of your repository. If you choose a different license, be sure to update the License section accordingly.**
-
 Usage
 The control panel is located in the left sidebar. You can pause/resume the simulation, reset it, or manually step it forward. Experiment with different configurations and observe the results! Or so that would happen if everything worked as expected, buttons don't really work, feel free to figure out why and put in PR!
 
