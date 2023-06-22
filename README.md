@@ -25,13 +25,13 @@ This project requires Python 3.6 or above. You also need the following Python pa
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/your_repo.git
+git clone https://github.com/0xEigenDev/Streamlit-Game-of-Life.git
 ```
 
 Navigate to the project folder:
 
 ```bash
-cd your_repo
+cd Streamlit-Game-of-Life
 ```
 
 Install the required dependencies:
